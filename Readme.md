@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/LoadingPanelExample/Form1.cs) (VB: [Form1.vb](./VB/LoadingPanelExample/Form1.vb))**
+* [LoadingPanel.cs](./CS/LoadingPanelExample/LoadingPanel.cs) (VB: [LoadingPanel.vb](./VB/LoadingPanelExample/LoadingPanel.vb))
+<!-- default file list end -->
 # How to: display the loading panel for WinForm controls
 
 
