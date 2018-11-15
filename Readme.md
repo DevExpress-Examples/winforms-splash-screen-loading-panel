@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))**
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [WaitForm1.cs](./CS/WaitForm1.cs) (VB: [WaitForm1.vb](./VB/WaitForm1.vb))
+<!-- default file list end -->
 # How to: display the loading panel for WinForm controls
 
 
