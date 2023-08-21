@@ -21,3 +21,6 @@ The [WinForms Splash Screen Manager](https://docs.devexpress.com/WindowsForms/10
 ## Documentation
 - [Splash Screen Manager](https://docs.devexpress.com/WindowsForms/10826/controls-and-libraries/forms-and-user-controls/splash-screen-manager)
 - [Wait Form](https://docs.devexpress.com/WindowsForms/10824/controls-and-libraries/forms-and-user-controls/splash-screen-manager/wait-form)
+- [Overvlay Form](https://docs.devexpress.com/WindowsForms/120029/controls-and-libraries/forms-and-user-controls/splash-screen-manager/overlay-form)
+- [Fluent Splash Screen](https://docs.devexpress.com/WindowsForms/401719/controls-and-libraries/forms-and-user-controls/splash-screen-manager/fluent-splash-screen)
+- [Splash Image](https://docs.devexpress.com/WindowsForms/10825/controls-and-libraries/forms-and-user-controls/splash-screen-manager/splash-image)
