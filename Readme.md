@@ -26,7 +26,7 @@ The [WinForms Splash Screen Manager](https://docs.devexpress.com/WindowsForms/10
 - [Fluent Splash Screen](https://docs.devexpress.com/WindowsForms/401719/controls-and-libraries/forms-and-user-controls/splash-screen-manager/fluent-splash-screen)
 - [Splash Image](https://docs.devexpress.com/WindowsForms/10825/controls-and-libraries/forms-and-user-controls/splash-screen-manager/splash-image)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-splash-screen-loading-panel&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-splash-screen-loading-panel&~~~was_helpful=no)
 
